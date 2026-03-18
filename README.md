@@ -20,7 +20,7 @@ The Simulated Annealing (S.A.) algorithm used in this project is structured in c
 
 *Below is the static and dynamic evolution of Cost and Temperature over the annealing cycles, alongside the physical routing optimization on a synthetic modular graph:*
 
-![Heating and Cooling Cycles](assets/tsp_sa_4cicli_1run_N30.jpg)
+![Heating and Cooling Cycles](assets/tsp_sa_4cicli_1run_N30.png)
 
 ![Heating and Cooling GIF](assets/tsp_sa_costi_temperatura.gif)
 
