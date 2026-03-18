@@ -1,5 +1,5 @@
 # optimization-traveling-salesman-problem
-University project for the *Optimization and Statistical Mechanics* exam (Physics Master Degree, "Physics of Complex Systems and Big Data" curriculum).
+Personal project developed for the *Optimization and Statistical Mechanics* exam within the Master's Degree program in **Physics of Complex Systems and Big Data**.
 
 ## 🧠 How the Simulated Annealing Algorithm Works
 The Simulated Annealing (S.A.) algorithm used in this project is structured in consecutive cycles of **Cooling** and **Heating** to find the optimal path. Here is the step-by-step evolution:
